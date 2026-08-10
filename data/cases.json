@@ -1,0 +1,601 @@
+[
+  {
+    "caseId": "nasal_001",
+    "title": "Small Central Tip",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "easy",
+    "vignette": {
+      "text": "An older man presents after Mohs surgery with a 0.8 × 0.8 cm defect. The defect extends to subcutaneous fat. Cartilage is intact and not exposed. Patient context: Best cosmetic outcome; accepts staged.",
+      "defectSize": "0.8 × 0.8 cm",
+      "laterality": "midline",
+      "depth": "subcutaneous_fat",
+      "cartilageStatus": "intact_not_exposed",
+      "patientContext": "Best cosmetic outcome; accepts staged"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_001.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_001"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "tip"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "bilobed_flap"
+    },
+    "feedback": {
+      "preferredLabel": "Bilobed flap",
+      "preferredRationale": "A bilobed flap is preferred because this is a small (0.8 × 0.8 cm), central nasal tip defect without cartilage exposure or loss. Bilobed flaps are workhorse flaps for small nasal tip defects, generally those measuring approximately ≤1.5 cm in diameter. They recruit adjacent nasal skin with an excellent color, texture, and contour match while minimizing distortion of the nasal tip.",
+      "acceptableAlternatives": [
+        {
+          "id": "primary_closure",
+          "label": "Primary closure",
+          "rationale": ""
+        },
+        {
+          "id": "full_thickness_skin_graft",
+          "label": "Full-thickness skin graft",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "Bilobed flaps are the workhorse reconstruction for small central nasal tip defects but become progressively less favorable as defect size approaches 1.5–2.0 cm because of increasing tension and risk of tip distortion."
+    }
+  },
+  {
+    "caseId": "nasal_002",
+    "title": "Medium Central Tip",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "easy",
+    "vignette": {
+      "text": "An older man presents after Mohs surgery with a 1.2 × 1.2 cm defect. The defect extends to perichondrium. The lower lateral cartilage is intact. Patient context: Best cosmetic outcome.",
+      "defectSize": "1.2 × 1.2 cm",
+      "laterality": "midline",
+      "depth": "perichondrium",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_002.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_002"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "tip"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "bilobed_flap"
+    },
+    "feedback": {
+      "preferredLabel": "Bilobed flap",
+      "preferredRationale": "A bilobed flap is the preferred reconstruction for this 1.2 × 1.2 cm nasal tip defect because it provides an excellent color and texture match while preserving the contour of the nasal tip. Defects between approximately 1.0 and 1.5 cm are often too large for primary closure yet remain well suited to local tissue rearrangement. The bilobed flap recruits adjacent dorsal nasal skin with similar characteristics, allowing closure with minimal tension and avoiding the patch-like appearance that may occur with a skin graft.",
+      "acceptableAlternatives": [
+        {
+          "id": "rieger_flap",
+          "label": "Rieger (dorsal nasal) flap",
+          "rationale": ""
+        },
+        {
+          "id": "full_thickness_skin_graft",
+          "label": "Full-thickness skin graft",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "For isolated nasal tip defects measuring approximately 1.0–1.5 cm, a bilobed flap is commonly the workhorse reconstruction because it provides excellent tissue match while minimizing distortion of the surrounding nasal anatomy. Final flap selection should still consider defect geometry, skin quality, patient factors, and surgeon experience."
+    }
+  },
+  {
+    "caseId": "nasal_003",
+    "title": "Large Central Tip",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "easy",
+    "vignette": {
+      "text": "An older man presents after Mohs surgery with a 1.8 × 1.8 cm defect. The defect extends to perichondrium. The lower lateral cartilage is intact. Patient context: Best cosmetic outcome; accepts staged.",
+      "defectSize": "1.8 × 1.8 cm",
+      "laterality": "midline",
+      "depth": "perichondrium",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome; accepts staged"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_003.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_003"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "tip"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "paramedian_forehead_flap"
+    },
+    "feedback": {
+      "preferredLabel": "Paramedian forehead flap",
+      "preferredRationale": "A paramedian forehead flap is the preferred reconstruction for this 1.8 × 1.8 cm nasal tip defect because it provides the best opportunity to restore the contour, color, and texture of the nasal tip. At this size, local flaps may create excessive tension, flatten the nasal tip, or distort the surrounding nasal subunits. The forehead flap recruits abundant, well-vascularized tissue with excellent skin characteristics and allows precise sculpting of the reconstructed tip. Because the patient prioritizes the best cosmetic outcome and is willing to undergo a staged procedure, the additional complexity is justified.",
+      "acceptableAlternatives": [
+        {
+          "id": "rieger_flap",
+          "label": "Rieger (dorsal nasal) flap",
+          "rationale": ""
+        },
+        {
+          "id": "full_thickness_skin_graft",
+          "label": "Full-thickness skin graft",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "As nasal tip defects approach 2 cm, surgeons should increasingly consider a paramedian forehead flap, particularly when the patient is willing to undergo staged reconstruction and places the highest priority on long-term cosmetic outcome. While experienced surgeons may occasionally achieve excellent results with large local flaps, the forehead flap often offers the greatest flexibility for restoring nasal contour with the least distortion."
+    }
+  },
+  {
+    "caseId": "nasal_005",
+    "title": "Tip Near Ala",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "moderate",
+    "vignette": {
+      "text": "An older man presents after Mohs surgery with a 1.8 cm maximum dimension defect. Patient context: Best cosmetic outcome; accepts staged.",
+      "defectSize": "1.8 cm maximum dimension",
+      "laterality": "left",
+      "depth": "perichondrium",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome; accepts staged"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_005.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_005"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "tip",
+        "ala",
+        "soft_triangle"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "paramedian_forehead_flap"
+    },
+    "feedback": {
+      "preferredLabel": "Paramedian forehead flap",
+      "preferredRationale": "A paramedian forehead flap is the preferred reconstruction for this 1.8 × 1.8 cm defect involving the nasal tip, ala, and soft triangle. Although the defect is less than 2 cm, it involves multiple aesthetic subunits, including the soft triangle, where even subtle distortion can produce noticeable cosmetic deformity. A forehead flap provides abundant, well-vascularized tissue with an excellent color and texture match, allowing precise restoration of the complex three-dimensional contour of the nasal tip and adjacent ala while minimizing tension on the surrounding nasal structures. Because the patient prioritizes the best cosmetic outcome and accepts a staged reconstruction, a paramedian forehead flap offers the most predictable long-term aesthetic result.",
+      "acceptableAlternatives": [],
+      "teachingPearl": "Reconstructive planning depends on more than defect size alone. Once a defect crosses multiple nasal subunits—particularly the ala and soft triangle—preserving contour and minimizing distortion often become more important than simply achieving wound closure. Cartilage grafting should also be considered whenever defects approach the alar rim or involve the ala, even if the lower lateral cartilage is intact, as grafts may help prevent postoperative alar retraction or external nasal valve collapse. In this case, however, the existing structural support is adequate, and additional cartilage grafting is not required."
+    }
+  },
+  {
+    "caseId": "nasal_006",
+    "title": "Ala + sidewall",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "moderate",
+    "vignette": {
+      "text": "An older man presents after Mohs surgery with a 1.6 cm maximum dimension defect. The defect is superficial, with intact underlying cartilage and no internal nasal lining loss. Patient context: Best cosmetic outcome.",
+      "defectSize": "1.6 cm maximum dimension",
+      "laterality": "left",
+      "depth": "superficial",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_006.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_006"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "ala",
+        "sidewall"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "paramedian_forehead_flap"
+    },
+    "feedback": {
+      "preferredLabel": "Paramedian forehead flap",
+      "preferredRationale": "The defect is relatively large and crosses the junction of the nasal ala and sidewall. A paramedian forehead flap provides well-vascularized tissue with excellent color and texture match and sufficient tissue to reconstruct both involved subunits while minimizing tension and distortion of the ala. Because the defect is superficial and the native cartilage is intact, additional structural grafting is not routinely required. Interpolated melolabial flap: A strong alternative, particularly for defects predominantly involving the ala. It provides excellent adjacent tissue for alar reconstruction, but the superior extension of this defect onto the nasal sidewall makes the paramedian forehead flap more versatile. Full-thickness skin graft: A reasonable single-stage option because the defect is superficial and has an appropriate vascularized wound bed. However, at this size and location, graft contraction, contour depression, and color/texture mismatch may produce a less favorable cosmetic result and could contribute to alar distortion.",
+      "acceptableAlternatives": [
+        {
+          "id": "interpolated_melolabial_flap",
+          "label": "Interpolated melolabial flap",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "Preserved cartilage does not always mean that structural support is irrelevant. Even with a superficial alar defect and intact native cartilage, reconstruction near the ala and internal nasal valve should minimize contractile forces that could cause alar retraction or valve narrowing. Cartilage grafting is not mandatory when native support is intact, but the need for additional support should be assessed intraoperatively."
+    }
+  },
+  {
+    "caseId": "nasal_009",
+    "title": "Small Superficial Ala",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "easy",
+    "vignette": {
+      "text": "An adult patient presents after Mohs surgery with a 0.8 cm defect. The defect is superficial, with no cartilage exposure, alar rim involvement, or internal lining loss. The patient prioritizes the best cosmetic outcome.",
+      "defectSize": "0.8 cm maximum dimension",
+      "laterality": "left",
+      "depth": "superficial",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_009.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_009"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "ala"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "full_thickness_skin_graft"
+    },
+    "feedback": {
+      "preferredLabel": "Full-thickness skin graft",
+      "preferredRationale": "A full-thickness skin graft provides a reliable, single-stage reconstruction for this small superficial alar defect while avoiding the additional incisions and tissue rearrangement of a local flap. Because the defect does not involve the alar rim and there is no cartilage loss, structural support is not required. Secondary intention is reasonable for selected small, superficial alar defects, particularly when located within or near the natural concavity of the alar groove. For a defect centered on the more convex lateral ala, however, healing may produce greater contour irregularity or contraction, making FTSG preferable when cosmetic outcome is prioritized.",
+      "acceptableAlternatives": [
+        {
+          "id": "secondary_intention",
+          "label": "Secondary intention",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "Teaching pearl: Small superficial alar defects can often be managed with secondary intention or FTSG. Secondary intention is particularly useful for defects ≤0.5 cm and for appropriately selected defects within the concave alar groove. For superficial defects approximately 0.5–1.0 cm on the lateral ala, FTSG is a reliable single-stage option. As defects approach or exceed 1–1.5 cm, local flap reconstruction becomes increasingly attractive because graft contraction and contour mismatch become more consequential. Alar rim involvement or structural loss may require cartilage support regardless of defect size."
+    }
+  },
+  {
+    "caseId": "nasal_010",
+    "title": "Tiny Superficial Ala",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "easy",
+    "vignette": {
+      "text": "An adult patient presents after Mohs surgery with a 0.4 cm defect. The defect is superficial with no cartilage exposure, alar rim involvement, internal lining loss, or through-and-through component. The patient prioritizes the best cosmetic outcome.",
+      "defectSize": "0.4 cm maximum dimension",
+      "laterality": "left",
+      "depth": "superficial",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_010.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_010"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "ala"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "secondary_intention"
+    },
+    "feedback": {
+      "preferredLabel": "Secondary intention",
+      "preferredRationale": "Secondary intention is well suited to this very small, superficial alar defect. At approximately 4 mm, the defect can heal with minimal morbidity while avoiding a donor site, additional incisions, or tissue rearrangement. Small defects in favorable alar locations can contract and epithelialize with an excellent cosmetic result. Because the alar rim is uninvolved and there is no cartilage loss, structural support is not required. A full-thickness skin graft would also provide reliable single-stage coverage and may be preferred when secondary-intention contraction or contour change is a concern. For a defect this small, however, a graft introduces a donor site and may create color or contour mismatch without a clear cosmetic advantage over secondary healing.",
+      "acceptableAlternatives": [
+        {
+          "id": "full_thickness_skin_graft",
+          "label": "Full-thickness skin graft",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "For very small superficial alar defects, particularly those ≤0.5 cm, secondary intention can provide an excellent result with minimal morbidity. FTSG becomes increasingly useful as superficial defects approach 0.5–1.0 cm, especially on the more convex lateral ala. Size is not the only consideration: defects involving the alar rim, cartilage, or lining require a different reconstructive strategy regardless of diameter."
+    }
+  },
+  {
+    "caseId": "nasal_011",
+    "title": "ala",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "easy",
+    "vignette": {
+      "text": "An adult patient presents after Mohs surgery with a 0.9 cm maximum dimension defect. The defect is superficial, with preservation of the underlying structural support and alar rim. Patient context: Best cosmetic outcome.",
+      "defectSize": "0.9 cm maximum dimension",
+      "laterality": "left",
+      "depth": "superficial",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_011.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_011"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "ala"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "full_thickness_skin_graft"
+    },
+    "feedback": {
+      "preferredLabel": "Full-thickness skin graft",
+      "preferredRationale": "A full-thickness skin graft is preferred for this small, superficial alar defect. It provides reliable coverage without requiring substantial tissue rearrangement or creating advancement or rotational forces that could distort the nearby alar margin. Because the defect is superficial and the native alar support and free margin remain intact, additional cartilage support is unnecessary.",
+      "acceptableAlternatives": [],
+      "teachingPearl": "Defect size alone does not determine alar reconstruction. Depth, preservation of structural support, proximity to the free margin, adjacent tissue laxity, and the vectors created by tissue movement are critical. For a small superficial alar defect with intact support, an FTSG can provide coverage while minimizing the risk of alar distortion. V-Y island advancement becomes more attractive as greater tissue replacement is needed and adequate laxity permits advancement without pulling on the rim."
+    }
+  },
+  {
+    "caseId": "nasal_012",
+    "title": "ala",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "moderate",
+    "vignette": {
+      "text": "An older adult presents after Mohs surgery with a 1.1 cm maximum dimension defect. The defect extends into the subcutaneous tissue. The alar rim is intact and there is no loss or exposure of the underlying cartilage. Patient context: Best cosmetic outcome.",
+      "defectSize": "1.1 cm maximum dimension",
+      "laterality": "unspecified",
+      "depth": "superficial",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_012.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_012"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "ala"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "island_pedicle_flap"
+    },
+    "feedback": {
+      "preferredLabel": "Island pedicle (V-Y) flap",
+      "preferredRationale": "An island pedicle (V-Y) flap is preferred for this moderately sized lateral alar defect. Compared with a full-thickness skin graft, the flap provides vascularized tissue of similar color, texture, and thickness and better restores the volume lost with a defect extending into the subcutaneous tissue. The superior-lateral position of the defect provides adjacent alar and nasal sidewall tissue that can be advanced into the defect while preserving the free alar margin. The key technical consideration is the advancement vector: the flap should advance into the defect without transmitting superior traction to the alar rim. A full-thickness skin graft is less attractive than in a smaller, more superficial defect because it may produce a depressed contour and less favorable color and texture match. A melolabial flap could provide adequate tissue but represents unnecessary tissue recruitment and donor-site morbidity for a defect of this size when suitable adjacent nasal tissue is available. Melolabial reconstruction becomes more attractive as the defect becomes larger or deeper, or when local advancement cannot provide adequate tissue without alar distortion.",
+      "acceptableAlternatives": [],
+      "teachingPearl": "The usefulness of an island pedicle flap depends on more than defect diameter. It is particularly well suited to moderately sized lateral or superior alar defects when adjacent tissue has sufficient laxity and can be advanced toward the defect without pulling on the free alar margin. Compared with an FTSG, the V-Y flap provides additional soft-tissue bulk and a better tissue match. As alar defects become larger, deeper, more inferior, or require more tissue than can safely be recruited locally, melolabial reconstruction becomes increasingly favorable."
+    }
+  },
+  {
+    "caseId": "nasal_013",
+    "title": "Small sidewall",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "easy",
+    "vignette": {
+      "text": "An adult patient presents after Mohs surgery with a 0.4 cm maximum dimension defect. The defect is superficial. Patient context: Best cosmetic outcome.",
+      "defectSize": "2.5 cm maximum dimension",
+      "laterality": "unspecified",
+      "depth": "superficial",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_013.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_013"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "sidewall"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "secondary_intention"
+    },
+    "feedback": {
+      "preferredLabel": "Secondary intention",
+      "preferredRationale": "Secondary intention healing is preferred for this small, superficial nasal sidewall defect. Small defects located on relatively concave nasal surfaces can heal with favorable contour and scar camouflage because wound contraction tends to be better tolerated than on convex subunits such as the nasal tip or ala. The defect is sufficiently small and superficial that reconstruction with a local flap would add unnecessary incisions and tissue rearrangement. A full-thickness skin graft is a reasonable alternative and avoids significant tissue rearrangement. However, for a small superficial defect in a favorable concave location, secondary intention can provide an excellent result without a donor site and may achieve better contour integration than a graft.",
+      "acceptableAlternatives": [
+        {
+          "id": "full_thickness_skin_graft",
+          "label": "Full-thickness skin graft",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "Secondary intention is strongly influenced by nasal topography. Small, superficial defects in concave or relatively protected surfaces can contract and epithelialize with excellent contour, whereas similar-sized defects on convex surfaces or near free margins are less predictable. Reconstruction should therefore consider the three-dimensional surface of the nasal subunit, not defect diameter alone."
+    }
+  },
+  {
+    "caseId": "nasal_014",
+    "title": "Moderate Superficial Nasal Sidewall",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "moderate",
+    "vignette": {
+      "text": "An adult patient presents after Mohs surgery with a 0.9 cm maximum dimension defect. The defect extends through the dermis into superficial subcutaneous tissue. Patient context: Best cosmetic outcome.",
+      "defectSize": "0.9 cm maximum dimension",
+      "laterality": "left",
+      "depth": "subcutaneous_fat",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_014.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_014"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "sidewall"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "note_flap"
+    },
+    "feedback": {
+      "preferredLabel": "Note flap",
+      "preferredRationale": "A note flap is preferred for this approximately 0.8 cm superficial nasal sidewall defect. The flap recruits adjacent nasal skin with excellent color, texture, and thickness match while remaining relatively localized. For a patient prioritizing the best cosmetic outcome, this like-with-like reconstruction can provide a more favorable result than a full-thickness skin graft, which may leave a visible color or texture mismatch and a patch-like or depressed contour. A full-thickness skin graft remains technically feasible and offers a simpler reconstruction with less tissue rearrangement. However, for this defect, adequate adjacent nasal skin is available for local flap reconstruction, and the cosmetic advantages of replacing the defect with similar nasal skin outweigh the additional incisions required for a note flap. An island pedicle (V-Y) flap can also provide excellent color, texture, and thickness match but is more useful when the defect is deeper and replacement of soft-tissue volume is desirable. Because this defect is superficial, the additional bulk and undermining associated with an island pedicle flap are unnecessary. As otherwise similar sidewall defects become deeper, a V-Y flap becomes increasingly attractive.",
+      "acceptableAlternatives": [
+        {
+          "id": "island_pedicle_flap",
+          "label": "Island pedicle (V-Y) flap",
+          "rationale": ""
+        },
+        {
+          "id": "full_thickness_skin_graft",
+          "label": "Full-thickness skin graft",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "There is no rigid size cutoff separating secondary intention, skin grafting, and local flap reconstruction of the nasal sidewall. Defect depth, sidewall topography, adjacent tissue laxity, and the patient's cosmetic priorities are important determinants of reconstruction. Very small superficial defects in favorable concavities may heal well by secondary intention. For a small-to-moderate superficial sidewall defect with adequate adjacent tissue and a priority for optimal cosmesis, a note flap can replace the defect with like nasal skin while avoiding the color, texture, and contour limitations of a full-thickness skin graft. As defects become deeper and require replacement of soft-tissue volume, an island pedicle flap becomes increasingly attractive."
+    }
+  },
+  {
+    "caseId": "nasal_015",
+    "title": "Moderate Nasal Sidewall Island Pedicle Flap",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "moderate",
+    "vignette": {
+      "text": "An adult patient presents after Mohs surgery with a 1.2 cm maximum dimension defect. The defect extends into the subcutaneous tissue without exposure or loss of the underlying structural framework. Patient context: Best cosmetic outcome.",
+      "defectSize": "1.2 cm maximum dimension",
+      "laterality": "left",
+      "depth": "perichondrium",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_015.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_015"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "sidewall"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "island_pedicle_flap"
+    },
+    "feedback": {
+      "preferredLabel": "Island pedicle (V-Y) flap",
+      "preferredRationale": "An island pedicle (V-Y advancement) flap is preferred for this moderately sized, relatively deep nasal sidewall defect. The defect extends into the subcutaneous tissue, making replacement of both skin and soft-tissue volume desirable. A V-Y flap recruits adjacent vascularized nasal skin and subcutaneous tissue with excellent color, texture, and thickness match. The mid-sidewall location provides a favorable reservoir of adjacent tissue that can be advanced directly into the defect while keeping the reconstruction localized. At approximately 1.2 cm, the defect remains within a size range in which V-Y advancement can be effective when adequate surrounding tissue laxity is present. A full-thickness skin graft is a reasonable consideration, particularly for a shallower sidewall defect of similar size. In this case, however, the deeper soft-tissue loss makes a local flap more attractive. An FTSG primarily resurfaces the defect and may leave a depressed contour, whereas an island pedicle flap replaces both skin and underlying soft-tissue volume with like tissue. Cheek advancement becomes increasingly attractive for larger defects or defects extending laterally toward the nasofacial groove. This defect remains centered on the mid-sidewall and can be reconstructed using adjacent nasal tissue without recruiting the larger cheek reservoir or crossing the nasofacial boundary.",
+      "acceptableAlternatives": [
+        {
+          "id": "cheek_advancement_flap",
+          "label": "Cheek advancement flap",
+          "rationale": ""
+        },
+        {
+          "id": "full_thickness_skin_graft",
+          "label": "Full-thickness skin graft",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "Size alone does not determine whether a nasal sidewall defect should receive a graft or local flap. Depth and volume loss are important discriminators. A relatively shallow defect around 1 cm may be well suited to FTSG, whereas a similarly sized but deeper defect may benefit from an island pedicle flap because vascularized local tissue replaces both skin and missing soft-tissue volume. As defects become larger or extend laterally toward the nasofacial groove, the amount of V-Y advancement required increases and cheek-based reconstruction becomes more attractive."
+    }
+  },
+  {
+    "caseId": "nasal_016",
+    "title": "Distal Dorsum Defect – Rieger Flap",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "moderate",
+    "vignette": {
+      "text": "An older adult presents after Mohs surgery with a 1.6 cm maximum dimension defect. The defect extends into the subcutaneous tissue without exposure or loss of the underlying cartilage. Patient context: Best cosmetic outcome.",
+      "defectSize": "1.6 cm maximum dimension",
+      "laterality": "midline",
+      "depth": "subcutaneous_fat",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_016.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_016"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "dorsum",
+        "sidewall"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "rieger_flap"
+    },
+    "feedback": {
+      "preferredLabel": "Rieger (dorsal nasal) flap",
+      "preferredRationale": "A dorsal nasal (Rieger) flap is preferred for this 1.6 cm defect centered on the distal nasal dorsum and supratip. The patient's priority is the best cosmetic outcome. The Rieger flap replaces the defect with adjacent vascularized nasal skin of similar color, texture, and thickness while recruiting tissue from the more mobile upper dorsum and glabellar region. At this size and depth, sufficient local tissue can be mobilized to reconstruct the defect without resorting to a staged interpolated flap. The Rieger flap therefore provides an excellent balance of tissue match, contour preservation, scar placement, and reconstructive morbidity.",
+      "acceptableAlternatives": [
+        {
+          "id": "paramedian_forehead_flap",
+          "label": "Paramedian forehead flap",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "Reconstruction should incorporate both defect characteristics and patient priorities. For a moderate distal dorsal defect with intact structural support, the Rieger flap occupies a useful middle ground: it provides like-with-like vascularized tissue without the morbidity of an interpolated forehead flap. A paramedian forehead flap can achieve excellent reconstruction but is unnecessarily extensive when adequate local nasal tissue is available. Conversely, an FTSG is simpler but sacrifices color, texture, thickness, and contour match across a conspicuous central nasal surface. When the stated goal is the best cosmetic outcome, these tradeoffs matter when determining which technically feasible reconstructions should actually receive credit."
+    }
+  },
+  {
+    "caseId": "nasal_031",
+    "title": "Older Patient",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "easy",
+    "vignette": {
+      "text": "An older man presents after Mohs surgery with a 0.4 cm maximum dimension defect centered on the nasal tip. The defect is superficial and extends into the subcutaneous tissue without cartilage exposure. The defect does not approach the alar rims or soft triangles. Patient context: Best cosmetic outcome.",
+      "defectSize": "0.4 cm maximum dimension",
+      "laterality": "midline",
+      "depth": "superficial",
+      "cartilageStatus": "intact_not_exposed",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_031.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_031"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "tip"
+      ],
+      "structuralRequirement": "none",
+      "preferredReconstruction": "primary_closure"
+    },
+    "feedback": {
+      "preferredLabel": "Primary closure",
+      "preferredRationale": "Primary closure is preferred because the defect is very small (0.4 cm), superficial, and isolated to the central nasal tip without involvement of the alar rims or soft triangles. At this size, surrounding nasal skin can often be mobilized sufficiently to achieve a tension-free or low-tension closure without significant distortion of the nasal tip or adjacent free margins. Primary closure provides immediate reconstruction using adjacent skin with an excellent color and texture match while avoiding the additional incisions and tissue rearrangement required for a local flap.",
+      "acceptableAlternatives": [
+        {
+          "id": "secondary_intention",
+          "label": "Secondary intention",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "Secondary intention is an acceptable alternative for this small, superficial defect. It avoids additional incisions and donor-site morbidity and may produce an acceptable cosmetic result. However, healing is prolonged and the final scar and contour are less predictable than with primary closure, with some risk of depression or contraction."
+    }
+  }
+]
