@@ -818,7 +818,7 @@ export function CaseTrainer({
           Built by{" "}
           <strong>
             <a
-              href="https://medium.com/@chrishornung14"
+              href="https://chrishornungmd.com"
               target="_blank"
               rel="noopener noreferrer"
             >
