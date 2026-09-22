@@ -597,5 +597,47 @@
       ],
       "teachingPearl": "Secondary intention is an acceptable alternative for this small, superficial defect. It avoids additional incisions and donor-site morbidity and may produce an acceptable cosmetic result. However, healing is prolonged and the final scar and contour are less predictable than with primary closure, with some risk of depression or contraction."
     }
+  },
+  {
+    "caseId": "nasal_017",
+    "title": "Alar rim involving",
+    "module": "nose",
+    "status": "reviewed",
+    "difficulty": "moderate",
+    "vignette": {
+      "text": "An older adult presents after Mohs surgery with a 0.9 cm maximum dimension defect. The underlying native cartilage framework is preserved, and there is no internal nasal lining loss. The patient prioritizes a single-stage reconstruction.",
+      "defectSize": "0.9 cm maximum dimention",
+      "laterality": "left",
+      "depth": "subcutaneous_fat",
+      "cartilageStatus": "intact",
+      "patientContext": "Best cosmetic outcome"
+    },
+    "images": [
+      {
+        "src": "/cases/nasal_017.webp",
+        "view": "composite",
+        "label": "Clinical image",
+        "alt": "Clinical image for nasal_017"
+      }
+    ],
+    "answers": {
+      "subunits": [
+        "ala"
+      ],
+      "structuralRequirement": "cartilage",
+      "preferredReconstruction": "composite_graft"
+    },
+    "feedback": {
+      "preferredLabel": "Composite graft",
+      "preferredRationale": "An auricular composite graft is preferred for this small defect because it provides both soft-tissue coverage and structural support in a single stage. Although the native alar framework remains intact, interruption of the free margin creates a risk of postoperative contraction, notching, and alar retraction. The cartilage component of the composite graft provides nonanatomic structural reinforcement to help maintain the contour of the reconstructed margin. At approximately 0.9 cm, the defect remains within a size range in which composite grafting is a reasonable and commonly described option. A separate auricular cartilage graft combined with vascularized flap coverage can also provide reliable structural support and soft-tissue replacement. An interpolated melolabial flap offers excellent adjacent tissue for alar reconstruction but requires greater tissue recruitment and additional incisions than a composite graft for a defect of this size. However, this patient prefers a single stage approach. Vascularized flaps with cartilage grafting become increasingly attractive for larger defects or when composite-graft survival is a concern. Full-thickness skin grafting alone is less desirable because it does not provide structural reinforcement and contraction at the free margin may result in alar notching or retraction. Secondary intention is similarly unfavorable because contraction occurs directly across the disrupted free margin.",
+      "acceptableAlternatives": [
+        {
+          "id": "interpolated_melolabial_flap",
+          "label": "Interpolated melolabial flap",
+          "rationale": ""
+        }
+      ],
+      "teachingPearl": "Alar rim involvement changes reconstruction even when native cartilage has not been removed. The free margin is vulnerable to scar contraction and postoperative notching. Cartilage may therefore be added as nonanatomic support rather than simply to replace missing native cartilage. For small alar rim defects, an auricular composite graft can provide skin and structural support in a single stage."
+    }
   }
 ]
